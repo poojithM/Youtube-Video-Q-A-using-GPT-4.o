@@ -30,7 +30,7 @@ To run the application, execute the following command in your terminal:
 
 streamlit run app.py
 ```
-- Navigate to the provided local URL (typically http://localhost:8501) in your web browser to view and interact with the application.
+- Navigate to the web browser to view and interact with the application.
 
 ## Interacting with the Application
 - Enter a YouTube Video Link: Input the URL of the YouTube video you want to analyze in the sidebar.
